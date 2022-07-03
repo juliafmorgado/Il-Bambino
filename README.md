@@ -12,9 +12,3 @@
 <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/CSS.svg' width='10%'>
 <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/JavaScript.svg' width='10%'>
 </div>
-
-<br>
-
-<h2>Optimizations</h2>
-
-Use Yelp's API to show user reviews on the website.
